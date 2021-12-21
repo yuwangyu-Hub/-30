@@ -1,0 +1,13 @@
+D:\RandonGame\极夜30\极夜30\bin\Debug\netcoreapp3.1\极夜30.exe
+D:\RandonGame\极夜30\极夜30\bin\Debug\netcoreapp3.1\极夜30.deps.json
+D:\RandonGame\极夜30\极夜30\bin\Debug\netcoreapp3.1\极夜30.runtimeconfig.json
+D:\RandonGame\极夜30\极夜30\bin\Debug\netcoreapp3.1\极夜30.runtimeconfig.dev.json
+D:\RandonGame\极夜30\极夜30\bin\Debug\netcoreapp3.1\极夜30.dll
+D:\RandonGame\极夜30\极夜30\bin\Debug\netcoreapp3.1\极夜30.pdb
+D:\RandonGame\极夜30\极夜30\obj\Debug\netcoreapp3.1\极夜30.csproj.AssemblyReference.cache
+D:\RandonGame\极夜30\极夜30\obj\Debug\netcoreapp3.1\极夜30.AssemblyInfoInputs.cache
+D:\RandonGame\极夜30\极夜30\obj\Debug\netcoreapp3.1\极夜30.AssemblyInfo.cs
+D:\RandonGame\极夜30\极夜30\obj\Debug\netcoreapp3.1\极夜30.csproj.CoreCompileInputs.cache
+D:\RandonGame\极夜30\极夜30\obj\Debug\netcoreapp3.1\极夜30.dll
+D:\RandonGame\极夜30\极夜30\obj\Debug\netcoreapp3.1\极夜30.pdb
+D:\RandonGame\极夜30\极夜30\obj\Debug\netcoreapp3.1\极夜30.genruntimeconfig.cache
