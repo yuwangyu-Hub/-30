@@ -4,7 +4,7 @@ using System.Text;
 
 namespace 极夜30
 {
-    class Person
+    class absturct Person
     {
         /// <summary>
         /// 构造函数
@@ -12,16 +12,18 @@ namespace 极夜30
         /// <param 名字="name"></param>
         /// <param 性别="gender"></param>
         /// <param 年龄="age"></param>
-        public Person(string name,char gender,int age)
-        {
-            this.Name = name;
-            this.Gender = gender;
-            this.Age = age;
+        //public Person(string name,char gender,int age)
+        //{
+        //    this.Name = name;
+        //    this.Gender = gender;
+        //    this.Age = age;
 
-        }
+        //}
+
+
 
         //姓名
-        string _name;
+        private string _name;
         public string Name 
         {
             get {  return _name; }
@@ -29,7 +31,7 @@ namespace 极夜30
         }
 
         //性别
-        char _gender;
+        private char _gender;
         public char Gender 
         {
             get { return _gender; }
@@ -37,7 +39,7 @@ namespace 极夜30
         }
         
         //年龄
-        int _age;
+        private int _age;
         public int Age
         {
             get { return _age; }
@@ -45,7 +47,7 @@ namespace 极夜30
         }
 
         //身高
-        float _high;
+        private float _high;
         public float High
         {
             get { return _high; }
@@ -53,7 +55,7 @@ namespace 极夜30
         }
 
         //长相（一到十分）
-        int _looks;
+        private int _looks;
         public int Looks
         {
             get { return _looks; }
@@ -66,6 +68,8 @@ namespace 极夜30
         }
 
         //健康状况（1-10）
+        private int _healths;
+        
         //知识（1-10）
         //力气（1-10）
         //职业
