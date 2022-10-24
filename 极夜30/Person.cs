@@ -4,7 +4,7 @@ using System.Text;
 
 namespace 极夜30
 {
-    class absturct Person
+    abstract class Person
     {
         /// <summary>
         /// 构造函数
